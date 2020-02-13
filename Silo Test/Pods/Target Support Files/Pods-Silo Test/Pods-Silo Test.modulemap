@@ -1,0 +1,6 @@
+framework module Pods_Silo_Test {
+  umbrella header "Pods-Silo Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
